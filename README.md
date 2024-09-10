@@ -17,7 +17,7 @@ Este repositório contém alguns projetos e documentação relacionados ao GitHu
 
 # 🚧 Projetos em Destaque
 
-## Desvendando a IA Generativa com Desafios de Códigos 
+### Desvendando a IA Generativa com Desafios de Códigos 
 - Explorando os Recursos do Copilot no Bing
 - Desvendando os Recursos do GitHub Copilot
 - Associando os Recursos do Microsoft Copilot Studio
