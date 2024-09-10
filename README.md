@@ -4,11 +4,6 @@ Bem-vindo ao repositório do Projeto GitHub Copilot! Este projeto é dedicado a 
 # 🚀 Sobre o Projeto
 Este repositório contém alguns projetos e documentação relacionados ao GitHub Copilot. Nosso objetivo é fornecer recursos práticos e insights sobre como o Copilot pode ser integrado em diferentes aspectos do ciclo de vida de desenvolvimento de software.
 
-# 📂 Estrutura do Repositório
-
-- /projetos: Contém subpastas para diferentes projetos demonstrando o uso do Copilot
-- /entregas: Resultados e relatórios de nossas experiências com o Copilot
-
 # 🌟 Funcionalidades Exploradas
 
 - Engenharia de prompt com IA Generativa
