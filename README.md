@@ -1,4 +1,4 @@
-# Projeto Copilot AI
+# Projeto Microsoft Copilot AI
 Bem-vindo ao repositório do Projeto GitHub Copilot! Este projeto é dedicado a explorar e demonstrar as capacidades revolucionárias do Copilot AI, uma ferramenta de IA que está transformando o mundo.
 
 # 🚀 Sobre o Projeto
